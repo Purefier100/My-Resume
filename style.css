@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+}
+
+.Emediong {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  background-size: 200% 200%;
+  animation: gradient-animation 18s ease infinite;
+  background: linear-gradient(300deg, #9500ff, #ffe14c, #7a0ec8);
+}
+
+.WORK {
+  background-color: orange;
+  text-align: center;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  margin-bottom: 30px;
+}
+
+.game {
+  margin: 0 auto;
+  padding: 90px;
+  line-height: 1.6;
+  text-align: left;
+  padding-top: 0px;
+  padding-bottom: 50px;
+  line-height: 2;
+  font-size: 20px;
+}
+
+.picture {
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin: 20px auto;
+  border: 3px solid;
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
+
+.WORK > h1 {
+  font-size: 5rem;
+  color: blanchedalmond;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+.sum {
+  font-size: 30px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.another {
+  font-weight: bolder;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: brown;
+}
